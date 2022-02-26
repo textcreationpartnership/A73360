@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of the imprisonment, the arraignement, and execution of the late traytors VVith a relation of the other traytors which were executed at VVorcester, the 27. of Ianuary last past, with others that were executed at VVolner-Hampton.</title>
+            <author>T. W., fl. 1606.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73360</idno>
+            <idno type="STC">STC 24916.3</idno>
+            <idno type="STC">ESTC S125567</idno>
+            <idno type="EEBO-CITATION">99898130</idno>
+            <idno type="PROQUEST">99898130</idno>
+            <idno type="VID">135546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2087:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of the imprisonment, the arraignement, and execution of the late traytors VVith a relation of the other traytors which were executed at VVorcester, the 27. of Ianuary last past, with others that were executed at VVolner-Hampton.</title>
+                  <author>T. W., fl. 1606.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted [by J. Windet] for Ieffrey Chorlton, and are to be solde at his shop, at the Great North dore of Powles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Reader" signed: T.VV.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Signatures: A-D⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gunpowder Plot, 1605 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135546:1" rendition="simple:additions"/>
+            <pb facs="tcp:135546:2" rendition="simple:additions"/>
+            <pb facs="tcp:135546:2"/>
+            <pb facs="tcp:135546:3" rendition="simple:additions"/>
+            <pb facs="tcp:135546:3" rendition="simple:additions"/>
+            <p>A TRVE REPORT <hi>OF THE IMPRISON<g ref="char:EOLhyphen"/>ment,</hi> the Arraignement, and <hi>Exe<g ref="char:EOLhyphen"/>cution of the late Traytors.</hi>
+            </p>
+            <p>VVITH A RELATION OF THE <hi>other Traytors which were executed at</hi> VVorceſter, the 27. of Ianuary laſt paſt, <hi>with others that were executed at</hi> VVoluer-Hampton.</p>
+            <p>LONDON <hi>Imprinted for</hi> Ieffrey Chorlton, and are to be ſolde at his ſhop, at the Great North dore of Powles. 1606.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:135546:4" rendition="simple:additions"/>
+            <pb facs="tcp:135546:4"/>
+            <head>TO All faithful and obedient Subiects</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entle Reader, the horible &amp; abhomina<g ref="char:EOLunhyphen"/>ble Treaſo<g ref="char:cmbAbbrStroke">̄</g> of the tray<g ref="char:EOLunhyphen"/>tors lately executed, with many others, ſome already executed at Worceſter, &amp; Wolnerha<g ref="char:cmbAbbrStroke">̄</g>pton, &amp; others their co<g ref="char:cmbAbbrStroke">̄</g>fe<g ref="char:EOLunhyphen"/>derats, whom God of his mercy, at his good pleaſur bring to light, &amp; giue the due puniſhment of their deſerts. This treaſon J ſay, ſo horrible and deteſta<g ref="char:EOLhyphen"/>ble in the ſight both of God and man, for which their bewitched hearts, not hauing that true repentance, that in
+<pb facs="tcp:135546:5" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:135546:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:135546:6"/>true Chriſtians may bee required: I haue ſet thee downe a briefe diſcourſe touching the Arraignement of theſe that were here in London and Weſt<g ref="char:EOLhyphen"/>minſter, vpon iuſt condemnation exe<g ref="char:EOLhyphen"/>cuted vpon Thurſday and Friday be<g ref="char:EOLhyphen"/>ing the <hi>30.</hi> and <hi>31.</hi> dayes of Ianuarie laſt paſt, to the ioy of all true ſubiectes, that liuing vnder ſo bleſſed and gra<g ref="char:EOLhyphen"/>tious a King, may reioyce to ſee the cutting off, of all ſuch accurſed tray<g ref="char:EOLhyphen"/>tors, as entend the death of his Ma<g ref="char:EOLhyphen"/>ieſtie, and ſubuerſion of the whole kingdome: and ſo beſeeching God to roote out all ſuch wicked weedes as may bee hurtfull in ſo good a ground as this our land, which J hope dooth containe a world of louing Subiectes vnto his Maieſtie, and their Coun<g ref="char:EOLhyphen"/>trie,
+<pb facs="tcp:135546:6" rendition="simple:additions"/>which do continually pray to God tobleſſe his Maieſty, with our gracious Queene, Prince <hi>Henrie,</hi> and the reſt of his royall Progeny, with long life, a bleſſed peace, and neuer ending hap<g ref="char:EOLhyphen"/>pineſſe, &amp; to continue his holy worde and bleſſed Peace among vs, and to giue vs all grace with one heart, euer to loue &amp; ſerue him in all true faith<g ref="char:EOLhyphen"/>fulneſſe. J end.</p>
+            <closer>
+               <signed>Your louing friend, T. VV.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:135546:7" rendition="simple:additions"/>
+            <pb facs="tcp:135546:7" rendition="simple:additions"/>
+            <head>A Briefe Diſcourſe vpon the Ar<g ref="char:EOLhyphen"/>raignement and Execution of the 8. Traytors, <hi>Digbie,</hi> the two <hi>Winters, Grant, Ruckwood, Caies, Bates</hi> and <hi>Iohnſon,</hi> alias <hi>Foulkes,</hi> foure of which were executed in <hi>Paules Churchyeard</hi> in <hi>London,</hi> vpon thurſday being the 30. of <hi>Ianuarie:</hi> the other 4. in the olde <hi>Pallace</hi> in <hi>Weſtminſter,</hi> ouer a<g ref="char:EOLhyphen"/>gainſt the <hi>Parliament houſe,</hi> vpon <hi>Friday</hi> next following.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ot to aggrauate the ſor<g ref="char:EOLhyphen"/>row of the liuing in the ſhame of the dead, but to diſſwade the idola<g ref="char:EOLhyphen"/>trouſly blinded, from ſeeking their owne de<g ref="char:EOLhyphen"/>ſtruction, in the way to damnation, I
+<pb facs="tcp:135546:8"/>haue here briefely ſet downe a diſcourſe of the behauiour and cariage of the eight perſons afore named, from the time of their impriſonme<g ref="char:cmbAbbrStroke">̄</g>t, to the inſtant of their death: the nature of their offence, the little ſhew of their ſorrow; their vſage in priſon, and their obſtinacie to their end. Firſt, for their offence, it is odious in the eares of all humaine Creatures, that it could hardly be belieued, that ſo many monſters in nature, ſhould carrie the ſhapes of men: Murther, oh, it is the cry<g ref="char:EOLhyphen"/>ing ſinne of the world, &amp; ſuch an inten<g ref="char:EOLhyphen"/>ded Murther, as had it take<g ref="char:cmbAbbrStroke">̄</g> effect, would haue made a world to crie? and therefore the horror thereof, muſt needes be hate<g ref="char:EOLhyphen"/>full to the whole world to heare of it.</p>
+            <p>Men that ſaw them goe to their Execu<g ref="char:EOLhyphen"/>tion; did in a ſort grieue to ſee ſuch pro<g ref="char:EOLhyphen"/>per men in ſhape, goe to ſo ſhamefull an end, but the end was proper to men of ſo vaproper minds, who to ſatisfie ablinded conceite, would forget their duties to God and their King, and vnnaturally
+<pb facs="tcp:135546:8"/>ſeeke the ruine of their Natiue Countrie: They are ſaide to be borne vnhappy, that are not ſome way profitable to their Countrie, and then how accurſed are they borne, that ſeeke the deſtruction of the whole kingdome?</p>
+            <p>Papiſts will perhaps idely ſay, it was a bloody executio<g ref="char:cmbAbbrStroke">̄</g>, but in reſpect of their deſert, in the blood they ente<g ref="char:cmbAbbrStroke">̄</g>ded to haue ſhedde, it was a mercifull puniſhment: For if <hi>Iezabel</hi> a Queen for ſeeking the mur<g ref="char:EOLunhyphen"/>ther of one priuate man, was throwne out of a window, and fedde vppon by dogs: How can theſe people be thought to be cruelly vſed, that could entend and practiſe ſo horible a villany, as the death of ſo gracious a King, Queene, &amp; Prince, ſo noble Peeres, &amp; the ruine of ſo flouri<g ref="char:EOLhyphen"/>ſhing a kingdome.</p>
+            <p>But ſince my entent is chiefely to make report of the manner of their demeanors from the priſon to the Arraignement, &amp; from thence to Execution: I will truely ſet down, what I haue gathered touch<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:135546:9"/>the ſame. After their apprehenſion in the Countrie, and brought vp to Lon<g ref="char:EOLhyphen"/>don, vpon the Apparance of their foule treaſon, before his Maieſties moſt Hono<g ref="char:EOLhyphen"/>rable Councel, they were by their com<g ref="char:EOLhyphen"/>mandement committed to his Maieſties Tower of London, where they wanted nothing, that in the mercy of a Chri<g ref="char:EOLhyphen"/>ſtian prince was thought fit, and indeed too good for ſo vnchriſtian offenders.</p>
+            <p>For in the time of their impriſonment, they ſeemed to feele no part of feare, ey<g ref="char:EOLhyphen"/>ther of the wrath of God, the doome of iuſtice, or the ſhame of ſinne, but as it were vvith ſeared conſciences, ſenceles of grace, liued as not looking to die, or not feeling the ſorrovve of their ſinnes; and novv that no ſubtill Foxe, or rather Gooſe that vvould faine ſeeme a Foxe, ſhall haue cauſe to ſay or thinke, that the iuſtice of the lavv hath not beene truely miniſtred, according to the rules of the diuine vvil, behold here a true report, as I ſaid before of their behauiour, and carri<g ref="char:EOLhyphen"/>riage,
+<pb facs="tcp:135546:9"/>from their apprehenſion, to their impriſonment, and from condemnation to their execution. In the time of their impriſonment, they rather feaſted with their ſinnes, then faſted with forrow for them, were richly apparrelled, fared deli<g ref="char:EOLunhyphen"/>ciouſly, and tooke I abaccoe out of mea<g ref="char:EOLhyphen"/>ſure, with a ſeeming careleſneſſe of their crime, as it were daring the Law to paſſe vppon them: but the Almightie and our moſt mercifull good God, firſt reuealed them: His Maieſties and his Counſailes carefull head apprehended them, the law plainely did diſcipher them, Iuſtice gaue iudgement on them, and death made an end of the<g ref="char:cmbAbbrStroke">̄</g>. But to come to their Araign<g ref="char:EOLhyphen"/>ment, and to deliuer the manner of their behauiour, after they wente from the Tower by water, &amp; come to Weſtminſter before they came into the hal, they made ſome halfe howres ſtay, or more in the Star-chamber, vvhether being brought, &amp; remaining til the Court, vvas al ready to heare them, and according to the law
+<pb facs="tcp:135546:10" rendition="simple:additions"/>to giue iudgement on the<g ref="char:cmbAbbrStroke">̄</g>, it was ſtrange to note their carriage, euen in their very countenances: Some hanging downe the heade, as if their heartes were full of doggednes, and other forcing a ſterne looke, as if they would feare death with a frowne, neuer ſeeming to pray, except it were by the dozen vpon their beades, and taking Tabaccoe as if that hanging vvere no trouble to them; ſaying little but in commendation of their conceited religion, crauing mercy of neither God nor the king for their offences, and ma<g ref="char:EOLhyphen"/>king their conſciences, as it vvere as wide as the worlde, and to the very gates of Hell, to bee the cauſe of their Helliſh courſes, to make a vvorke meritori<g ref="char:EOLhyphen"/>ous.</p>
+            <p>Novv being come into the Hall, and v<g ref="char:EOLhyphen"/>pon the Scaffold, at the barre ſtanding to anſvvere to their inditementes, they all pleaded not guiltie, but vvere all found guiltie, <hi>Digbie</hi> vvithout crauing mercy, or fauour of eyther God or the king, made
+<pb facs="tcp:135546:10" rendition="simple:additions"/>onely fiue worldly requeſts, that his wife might haue her Iointer, his children the lands intailed by his Father; his ſiſters their legaties in his hand vnpaid, his debts paid, and for his death, to be beheaded, and not hanged.</p>
+            <p>
+               <hi>Thomas Winter</hi> in like manner thinke<g ref="char:EOLhyphen"/>ing himſelfe alreadie halfe a Saint for his whole villanie, faid little to any pur<g ref="char:EOLhyphen"/>poſe, that either made ſhew of ſorrow, or ſought mercie, but onely made a re<g ref="char:EOLhyphen"/>requeſt to the King for mercy towardes his Brother, in regard of his offence as he ſaid, thorough his onely perſwaſi<g ref="char:EOLhyphen"/>on.</p>
+            <p>His brother ſayed little, but with a guiltie conſcience, ſwallowed vp a con<g ref="char:EOLhyphen"/>cealed griefe, with little ſhew of ſor<g ref="char:EOLhyphen"/>row for that time.</p>
+            <p>
+               <hi>Graunt</hi> ſtubborne in his Idolatrie, ſee<g ref="char:EOLhyphen"/>med nothing penitent for his villa<g ref="char:EOLhyphen"/>nie, asked little mercie, but as it were
+<pb facs="tcp:135546:11" rendition="simple:additions"/>careles of grace receiued the doom of his deſert.</p>
+            <p>The yonger <hi>Winter</hi> ſaid little; but to excuſe the fowlenes of his fact, in beeing drawne in by his brother, and not of his owne plotting, with little talke to lit<g ref="char:EOLhyphen"/>tle purpoſe; troubled the time the leſſer while.</p>
+            <p>
+               <hi>Ruckwood</hi> out of a ſtudied ſpeech woulde faine haue made his bringing vppe and breeding in idolatrie, to haue beene ſome excuſe to his villanie, but a faire talke could not helpe a fowle deed, and therefore being found guilty of the treaſon, had his iudgement with the reſt of the traytors.</p>
+            <p>Now after their condemnation and iudgement, beeing ſent backe to the Tower, there they remayned till the Thurſeday following, vppon ſleddes &amp; hurdles, they were drawne into Powles Church-yearde; Fowre of them, vz. <hi>Euerarde Digbie,</hi> the elder <hi>Winter, Graunt,</hi> and <hi>Bates,</hi> of whome I forgat to ſpeake,
+<pb facs="tcp:135546:11" rendition="simple:additions"/>hauing no great matter to ſpeake of, but onely that being a villaine, and hoping of aduancement by the ſame, he had the rewarde of a traytor.</p>
+            <p>Now theſe foure being drawne to the Scaffolde, made on purpoſe for their execution: Firſt went vp <hi>Digbie</hi> a man of a goodly perſonage, and a manly aſ<g ref="char:EOLhyphen"/>pect, yet might a warie Eye in the change of his countenaunce, beholde an inwarde feare of death, for his colour grew pale and his eie heauie, notwith<g ref="char:EOLhyphen"/>ſtanding that hee enforced him ſelfe, to ſpeake as ſtoutly as hee could, his ſpeech, was not long and to little good purpoſe onely that his belied conſcience, being but indeed à blinded conceit, had led him into this offence, which in reſpect of his religion <hi>alias</hi> in deede Idolatrie, hee held no offence but in reſpect of the law he held an offence for vvhich, hee aſked forgiueneſſe of God, of the king, and the vvhole kingdome, and ſo vvith vaine, and ſuperſtitious croſſing of him ſelfe betook
+<pb facs="tcp:135546:12" rendition="simple:additions"/>him to his Latine prayers, mumbling to him ſelfe refuſing to haue any prayers of any, but of the Romiſh Catholicks, vvent vp the Ladder, and vvith the helpe of the hangman made an end of his vvicked daies in this vvorld.</p>
+            <p>After him vvent <hi>Winter,</hi> vp the Scaffold vvhere he vſed fevv vvords to anie good effect, vvithout aſking mercie of either God or the king for his offence, went vp the ladder, and making a few prayers to himſelfe, ſtaide not long for his execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>After him went <hi>Graunt,</hi> who abho<g ref="char:EOLhyphen"/>minably blinded with his horrible ido<g ref="char:EOLhyphen"/>latrie, though he confeſſed his offence to bee hainous, yet would faine haue excu<g ref="char:EOLhyphen"/>ſed it by his conſcience, for Religion: a bloodie religion, to make ſo bloody a conſcience: but better that his bloode and all ſuch as hee was, ſhould bee ſhed by the iuſtice of law, then the bloode of many thouſandes to haue beene ſhedde by his villanie, without lawe or iuſtice:
+<pb facs="tcp:135546:12" rendition="simple:additions"/>but to the purpoſe, hauing vſed a fevve i<g ref="char:EOLhyphen"/>dle wordes to ill effect, hee was as his Fellowes before him, ledde the way to the Halter: and ſo after his croſſing of himſelfe, to the laſt parte of his tragedie.</p>
+            <p>Laſt of them came <hi>Bates,</hi> who ſeemed ſorie for his offence, and asked forgiue<g ref="char:EOLhyphen"/>nes of God, and the king, and of the whole kingdome, prayed to God for the preſeruation of them all, and as hee ſayed, onely for his loue to his Maiſter, drawne to forget his duety to God, his king and Countrie, and therefore was now drawne from the Tower to Paules Churchyeard, and there hanged &amp; quartered for his treacherie. Thus ended that dayes buſines.</p>
+            <p>The next day being Friday, were drawne from the Tower to the old Pal<g ref="char:EOLhyphen"/>lace in VVeſtminſter, ouer againſt the Parliament houſe, <hi>Thomas Winter</hi> the yon<g ref="char:EOLunhyphen"/>ger brother, <hi>Ruckewoode, Cayes</hi> &amp; <hi>Faulks</hi> the Miner, iuſtly called the Deuill of the Vault: for had hee not beene a Deuill
+<pb facs="tcp:135546:13" rendition="simple:additions"/>in carnate, he had neuer conceiued ſo villa<g ref="char:EOLhyphen"/>nous a thought, nor been employed in ſo damnable an action. where <hi>Winter</hi> firſt be<g ref="char:EOLunhyphen"/>ing brought to the Scaffolde, made little ſpeech, but ſeeming after a ſort as it were ſorry for his offence, and yet croſſing him ſelfe, as though thoſe were wardes to put by the Deuils Stoccadoes, hauing already made a wound in his ſoule, of which, he had not yet a full feeling, proteſting to die a true Catholicke as hee ſaid; with a very pale and dead colour went vppe the lad<g ref="char:EOLhyphen"/>der, and after a ſwing or two with a hal, ter, to the quartering block was drawn, and there quicklie diſpatched.</p>
+            <p>Next him came <hi>Ruckwood,</hi> vvho made a ſpeech of ſome longer time, confeſſing his offence to God, in ſeeking to ſhedde blood, and asking therefore mercy of his diuine Maieſtie, his offence to the King, of whoſe Maieſtie hee likevviſe humbly aſked forgiuenes, his offence to thewhole ſtate, of whome in generall he asked for<g ref="char:EOLhyphen"/>giue
+<pb facs="tcp:135546:13" rendition="simple:additions"/>neſſe, beſeeching God to bleſſe the king, the Queene, and all his royall Pro<g ref="char:EOLhyphen"/>genie, and that they might long liue to raigne in peace, and happineſſe ouer this kingdom, but laſt of all to marre all the pottage with one filthy weed, to mar this good prayer, with an ill concluſion, hee prayed God to make the King a Ca<g ref="char:EOLhyphen"/>tholike, otherwiſe a papiſt (which God for his mercy euer forbid) &amp; ſo beſeech<g ref="char:EOLhyphen"/>ing the King to be good to his wife and children, proteſting to die in his Idolatrie a Romiſh Catholicke, he went vppe the ladder, and hanging till hee was almoſt dead, was drawne to the blocke, where he gaue his laſt gaſpe.</p>
+            <p>After him came <hi>Caies,</hi> who like a deſ<g ref="char:EOLhyphen"/>perate villaine vſing little ſpeech, with ſmall or no ſhew of repentance, wente ſtoutelie vp the ladder, where not ſtaying the Hangmans turne, turned himſelfe of with ſuch a leape, that vvith the ſwing he brake the Halter, but after his fall, was
+<pb facs="tcp:135546:14" rendition="simple:additions"/>quicklie drawne to the blocke, and there was quicklie deuided into foure partes.</p>
+            <p>Laſt of all came the great Deuill of all, <hi>Faulkes alias Iohnſon,</hi> who ſhoulde haue put fire to the powder: His body being weake with torture and ſicknes, he vvas ſcarſe able to goe vp the ladder, but yet vvith much adoe, by the helpe of the Hangman, vvent hie enough to breake his necke vvith the fall: vvho made no long ſpeech, but after a ſort, ſeeming to be ſor<g ref="char:EOLhyphen"/>rie for his offence, asked a kinde of forgiue<g ref="char:EOLhyphen"/>nes, of the King, and the State, for his bloodie intent, with his croſſes &amp; his idle ceremonies, made his end vpon the gal<g ref="char:EOLhyphen"/>lowes, and the blocke, to the great ioy of the beholders, that the land vvas ended of ſo vvicked a villaine.</p>
+            <p>Thus haue <hi>I</hi> ended my diſcourſe vppon the Arraignement, and execution of theſe eight traitors executed vpon thurſdaie, and friday laſt paſt in paules church-yard and the old pallace at weſtminſter.</p>
+            <p>Now there is certaine report of the exe<g ref="char:EOLhyphen"/>cution
+<pb facs="tcp:135546:14"/>done on mundaie being the 27. of Ianuarie in the citie of worceſter, vpon one <hi>Perkiſes</hi> &amp; his man, for the receiuing of traitors. vz. <hi>Rob. Winter, Stephen Little<g ref="char:EOLhyphen"/>ton,</hi> &amp; two more executed at VVolner<g ref="char:EOLhyphen"/>ha<g ref="char:cmbAbbrStroke">̄</g>pton for the ſame. God be bleſſed for it &amp; continue the Iuſtice of law to be execu<g ref="char:EOLhyphen"/>ted vpon all ſuch rebellious &amp; traitorous wretches as either plot ſuch villanies, conceale ſuch treaſons, or relieue ſuch traitors, for ſince the betraying the Lord of heauen and earth, was there euer ſuch a helliſh plot practiſed in the world? if the Pope were not a verie Diuell, and theſe Ieſuites, or rather <hi>Iebuſites,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>tanicall Seminaries,</hi> verie ſpirites of wick<g ref="char:EOLhyphen"/>edneſſe, that whiſper in the eares of <hi>Euahs</hi> to bring a world of <hi>Adams</hi> to deſtruction how could nature be ſo ſenceles or reaſon ſo graceles as to ſubiect wit ſo to wil, as to run all headlong to confuſion? is this a rule of religion? or rather of a legio<g ref="char:cmbAbbrStroke">̄</g>, where the <hi>Sinagogue</hi> of Sathan ſat in counſaile for the worlds deſtruction, for the ſatiſſactio<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:135546:15"/>of a lowzie humor or bloudy deuotion, or hope of honor, or to make waie to ſome mad fury to bring the moſt floriſhing kingdome on the earth to the moſt de<g ref="char:EOLhyphen"/>ſolation in the world, to kil at one blow or with one blaſt, King, Queene, Prince and Peere, Biſhop, Iudge and Magiſtrate to the ruine of the land, and vtter ſhame to the whole vvorld, and left naked to the inuaſion of anie enemie: is this a holy father that begets ſuch vvicked children? is this religion, vvhere is no touch of cha<g ref="char:EOLhyphen"/>ritie? or is there anie ſparke of Grace, in theſe prieſtes? that ſo poiſon the ſoules, &amp; breake the neckes of ſo many people.</p>
+            <p>Ignorance in the ſimple and Idolatrie in the ſubtil, take ceremonies for certainties ſuperſtition for religion, enuie for zeale and murther for charitie, what can that church be but hell where the diuill ſings ſuch maſſes: <hi>ſeruus ſeruorum</hi> ſaies hee that would be <hi>Dominus dominorum</hi> ſeruant of ſeruants, that would be maiſter of maiſters; is not he a cunning heards-man,
+<pb facs="tcp:135546:15"/>that can make one painted cow, or prin<g ref="char:EOLhyphen"/>ted Bull giue him more milke, then ma<g ref="char:EOLhyphen"/>ny a Heard of better kine: are not theſe ſweete Notes to bee taken in the na<g ref="char:EOLhyphen"/>ture of the Popiſh gouernment, kill prin<g ref="char:EOLhyphen"/>ces; ſowe ſeditions, maintaine bawdie houſes, blinde the ſimple, abuſe the ho<g ref="char:EOLhyphen"/>neſt, betray the innocent, ſweare and forſweare, ſo it be for the popes profite, the Church will abſolue you, and if you miſſe the marke to hit the miſchiefe you ſhoote at, you ſhall bee a hanging Saint, till you bee taken downe to the Deuill. Oh fine perſwaſions, that in<g ref="char:EOLhyphen"/>finite ſinnes by numbred prayers, inward curſes, by outward croſſings, an offence againſt God, by a pardon from man, ſhould be beleeued to be helped. A child cannot conceiue it, a wiſe man cannot diſgeſt it, and ſurely none but either blind women or mad men can beleeue it. If a man would but a little looke into their Idolatries, hee ſhould ſee a worlde of ſuch mockeries, as would make him
+<pb facs="tcp:135546:16"/>both laugh at their fooleries, and abhor their villanies. Their kiſſing of babies, their kneeling to wodden Ladies, their calling to Saintes that cannot heare them, their praying by the dozen, their taking of penance, their pilgrimages to Idols, their ſhauings and their waſhings, their confeſſions and their croſſinges, and their diueliſh deuiſes to deceiue the ſimple of their comfort. Theſe with a worlde of ſuch trickes, as would make <hi>Iacke</hi> an Apes a fine Iugler: He that coulde ſee them with that cleare eye, that can iudge betwixt light and darkenes, woulde, if they were his friendes, be ſorry for them, if his enemies, laugh at them, and how<g ref="char:EOLhyphen"/>ſoeuer, or whatſoeuer leaue them, &amp; ſay as he may ſay, that <hi>Papiſtrie</hi> is meere <hi>Jdo<g ref="char:EOLhyphen"/>latrie,</hi> the <hi>Pope</hi> an incarnate Deuill, his Church a Synagogue of Satan, and his prieſtes the verie locuſtes of the earth.</p>
+            <p>But let vs leaue them to their loathſome puddles, and let vs bee thankefull to Al<g ref="char:EOLhyphen"/>mightie God, for the cleare water of life,
+<pb facs="tcp:135546:16"/>that in his holy worde, wee receiue from the fountaine of his gracious mercie, &amp; let vs a little looke into the difference betwixt the Traiterous Papiſt, that dieth for his villanie, and the faithfull Prote<g ref="char:EOLhyphen"/>ſtant that dyeth for the truth of his con<g ref="char:EOLhyphen"/>ſcience in the beliefe of the worde of God.</p>
+            <p>The trayterous Papiſt will pull downe princes, and ſubuert Kingdoms; murther and poyſon whome they can<g ref="char:EOLhyphen"/>not commaund; The faithfull prote<g ref="char:EOLhyphen"/>ſtant praieth for princes, and the peace of the people, and will endure baniſh<g ref="char:EOLhyphen"/>ment, but hate rebellion: The proud papiſt will ſhewe in temperancie in paſ<g ref="char:EOLhyphen"/>ſion, while the humble proteſtant will embrace affliction with patience: The Proteſtant cries to GOD for mer<g ref="char:EOLhyphen"/>cie for his ſinnes, the Papiſt giues autho<g ref="char:EOLhyphen"/>ritie to ſinne, when before the offence the pardon is purchaſed.</p>
+            <p>I ſay, was it not a ſtrange ſpeech of <hi>Dig<g ref="char:EOLhyphen"/>bie,</hi> through the blindneſſe of his bewit<g ref="char:EOLhyphen"/>ched
+<pb facs="tcp:135546:17"/>witte, that to bring the kingdome into the popiſh Idolatrie, hee cared not to roote out all his poſteritie.</p>
+            <p>Oh the miſery of theſe blinded people, that forſake the tru God of heaue<g ref="char:cmbAbbrStroke">̄</g> &amp; earth to ſubmit their ſeruice to the Deuill of the world, be Traitours to their gratious Princes, to ſerue a proude vngratious pre<g ref="char:EOLunhyphen"/>late, looſe their lands, goods, begger their wiues and children, looſe their own liues with an open ſhame, and leaue an infamy to their name for euer, onely to obey the command of a cunning Foxe, that lying in his denne praieth on all the geeſe that he can light on, and in the proude beliefe to be made Saints will ha<g ref="char:EOLhyphen"/>zard their ſoules to goe to the Deuill.</p>
+            <p>But how many millions hath this De<g ref="char:EOLhyphen"/>uill inchaunted, &amp; how many kingdo<g ref="char:cmbAbbrStroke">̄</g>es hath he ruinated, and how many maſſa<g ref="char:EOLhyphen"/>cres hath he plotted, and how many ſoules hath he ſent to damnation? God for his mercy cut him off or open the eies of all them Chriſtian princes, that they
+<pb facs="tcp:135546:17"/>may agree together and pull him down. For during his pride, Princes that are of his Religion, will bee but as Copie-hol<g ref="char:EOLhyphen"/>ders to his Countenance, Souldiers that fight not vnder his banner, ſhall bee as ſhake-rags to his Armie; Lawyers except they pleade in his right, ſhall haue but curſes for their fees: Diuines, if not of his opinion, ſhal be excommunicate out off his Church, Merchantes that bring not him commodities ſhall keepe no ſhops, in his Sanctuarie, nor Beggars that pray not for his Monarchie, ſhall haue any almes in his Baſket: and therefore I hope, that God will ſo wipe off the skales from the eyes of the blinde, that both one and other, Souldier and Law<g ref="char:EOLhyphen"/>yer, Diuine and Laye man, rich and poore, will ſo lay their heades, their heartes and handes, and their purſes together, that where as hee hath beene long in riſing, and could not ſitte faſt, when hee was vppe, ſhall take a fall
+<pb facs="tcp:135546:18"/>of ſodaine, and neuer riſe againe, when hee is downe: to which prayer, <hi>I</hi> hope all true Chriſtians will ſay <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
